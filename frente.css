@@ -1,0 +1,80 @@
+body{
+    background-color: darkorange;
+        
+        background: linear-gradient(to right, gray, blue);
+            height: 200px; }
+            
+            img {
+                width: 500px; /* Largura da imagem */
+                height: auto; /* Altura ajustada proporcionalmente */
+                border: 2px solid #000; /* Borda preta de 2px */
+                border-radius: 10px; /* Bordas arredondadas */
+            }
+
+            button {
+                background-color: blue;
+                width: 60px;
+                height: 40px;
+                border-radius: 5px;
+                border: none;
+                color: white;
+            }
+                body{
+                margin: none !important;  
+                
+                }
+
+            #loginForm {
+                padding: 5% 5% 5% ;
+
+            #emailInput, #passwordInput{
+                    
+                width: 100%;
+                box-sizing: border-box;
+                margin-bottom: 5%;
+                height: 40px;
+                border-radius: 5px;
+                border: 1px solid rgba(0, 0, 0, 0,2);
+
+            }
+        }
+            
+            #loginContainer {
+                display: flex;
+                align-items: center;  
+                justify-content: center;
+               
+                }
+            
+                 
+                  
+                
+                  
+    h1{
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 48px;
+        text-align: center;
+        
+    }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+        /* Estilos para o botão de menu */
+        .menu-btn {
+            background-color: black; /* Cor de fundo verde */
+            color: white; /* Cor do texto branca */
+            padding: 15px 20px; /* Espaçamento interno */
+            border: none; /* Remover bordas */
+            border-radius: 5px; /* Bordas arredondadas */
+            cursor: pointer; /* Cursor do mouse para clicar */
+            font-size: 16px; /* Tamanho da fonte */
+          
+        }
+          /* Estilo para o botão quando o cursor está sobre ele */
+          .menu-btn:hover {
+            background-color: #a04594; /* Cor de fundo mais escura */
+          
+    }
+    
+    h2{
+    text-align: center;
+    
+    }
